@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+setup.cfg
+src/chat/__init__.py
+src/chat/__main__.py
+src/chat/client.py
+src/chat/server.py
+src/chat_yooisae2.egg-info/PKG-INFO
+src/chat_yooisae2.egg-info/SOURCES.txt
+src/chat_yooisae2.egg-info/dependency_links.txt
+src/chat_yooisae2.egg-info/top_level.txt
